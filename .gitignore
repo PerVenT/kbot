@@ -1,1 +1,4 @@
-^kbot(\.[a-zA-Z0-9]+)?$
+kbot
+kbot.exe
+.env
+*.log
