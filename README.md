@@ -1,0 +1,1 @@
+# Init Telebot go app
